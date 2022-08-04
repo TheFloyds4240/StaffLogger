@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.prism3</groupId>
-    <artifactId>Logger</artifactId>
+    <artifactId>StaffLogger</artifactId>
     <version>1.8.0.2</version>
     <modules>
-        <module>Logger-Spigot</module>
+        <module>StaffLogger-Spigot</module>
         <module>Logger-BungeeCord</module>
         <module>Logger-Shaded</module>
         <module>Logger-Velocity</module>
@@ -18,7 +18,7 @@
 
     <name>Logger</name>
 
-    <description>Log all Activities from Players or Server Side!</description>
+    <description>Log all Activities from Staff Members!</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
