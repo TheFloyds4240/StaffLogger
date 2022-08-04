@@ -8,7 +8,7 @@
     <artifactId>StaffLogger</artifactId>
     <version>1.8.0.2</version>
     <modules>
-        <module>StaffLogger-Spigot</module>
+        <module>Logger-Spigot</module>
         <module>Logger-BungeeCord</module>
         <module>Logger-Shaded</module>
         <module>Logger-Velocity</module>
